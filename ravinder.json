@@ -1,0 +1,431 @@
+{
+    "history": [
+        {
+            "computer": "Rock",
+            "gameId": 1,
+            "result": "tie",
+            "user": "rock"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 2,
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "Rock",
+            "gameId": 3,
+            "result": "user",
+            "user": "paper"
+        },
+        {
+            "computer": "Paper",
+            "gameId": 4,
+            "result": "user",
+            "user": "scissors"
+        },
+        {
+            "computer": "Rock",
+            "gameId": 5,
+            "result": "user",
+            "user": "paper"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 6,
+            "result": "computer",
+            "user": "paper"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 7,
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "Paper",
+            "gameId": 8,
+            "result": "tie",
+            "user": "paper"
+        },
+        {
+            "computer": "Paper",
+            "gameId": 9,
+            "result": "user",
+            "user": "scissors"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 10,
+            "result": "computer",
+            "user": "paper"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 11,
+            "result": "tie",
+            "user": "scissors"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 12,
+            "result": "tie",
+            "user": "scissors"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 13,
+            "result": "tie",
+            "user": "scissors"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 14,
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 15,
+            "result": "computer",
+            "user": "paper"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 16,
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 17,
+            "result": "tie",
+            "user": "scissors"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 18,
+            "result": "computer",
+            "user": "paper"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 19,
+            "result": "tie",
+            "user": "scissors"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 20,
+            "result": "tie",
+            "user": "scissors"
+        },
+        {
+            "computer": "Rock",
+            "gameId": 21,
+            "result": "tie",
+            "user": "rock"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 22,
+            "result": "computer",
+            "user": "paper"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 23,
+            "result": "tie",
+            "user": "scissors"
+        },
+        {
+            "computer": "Rock",
+            "gameId": 24,
+            "result": "user",
+            "user": "paper"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 25,
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 26,
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 27,
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 28,
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 29,
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "Scissors",
+            "gameId": 30,
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "paper",
+            "gameId": 31,
+            "method": "combined",
+            "result": "user",
+            "user": "scissors"
+        },
+        {
+            "computer": "paper",
+            "gameId": 32,
+            "method": "combined",
+            "result": "tie",
+            "user": "paper"
+        },
+        {
+            "computer": "paper",
+            "gameId": 33,
+            "method": "combined",
+            "result": "tie",
+            "user": "paper"
+        },
+        {
+            "computer": "scissors",
+            "gameId": 34,
+            "method": "combined",
+            "result": "computer",
+            "user": "paper"
+        },
+        {
+            "computer": "scissors",
+            "gameId": 35,
+            "method": "combined",
+            "result": "computer",
+            "user": "paper"
+        },
+        {
+            "computer": "scissors",
+            "gameId": 36,
+            "method": "combined",
+            "result": "tie",
+            "user": "scissors"
+        },
+        {
+            "computer": "scissors",
+            "gameId": 37,
+            "method": "combined",
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "paper",
+            "gameId": 38,
+            "method": "combined",
+            "result": "computer",
+            "user": "rock"
+        },
+        {
+            "computer": "paper",
+            "gameId": 39,
+            "method": "combined",
+            "result": "user",
+            "user": "scissors"
+        },
+        {
+            "computer": "paper",
+            "gameId": 40,
+            "method": "combined",
+            "result": "user",
+            "user": "scissors"
+        },
+        {
+            "computer": "paper",
+            "gameId": 41,
+            "method": "combined",
+            "result": "tie",
+            "user": "paper"
+        },
+        {
+            "computer": "scissors",
+            "gameId": 42,
+            "method": "combined",
+            "result": "computer",
+            "user": "paper"
+        },
+        {
+            "computer": "scissors",
+            "gameId": 43,
+            "method": "combined",
+            "result": "computer",
+            "user": "paper"
+        },
+        {
+            "computer": "scissors",
+            "gameId": 44,
+            "method": "combined",
+            "result": "computer",
+            "user": "paper"
+        },
+        {
+            "computer": "scissors",
+            "gameId": 45,
+            "method": "combined",
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "paper",
+            "gameId": 46,
+            "method": "combined",
+            "result": "tie",
+            "user": "paper"
+        },
+        {
+            "computer": "scissors",
+            "gameId": 47,
+            "method": "combined",
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "scissors",
+            "gameId": 48,
+            "method": "combined",
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "rock",
+            "gameId": 49,
+            "method": "combined",
+            "result": "tie",
+            "user": "rock"
+        },
+        {
+            "computer": "paper",
+            "gameId": 50,
+            "method": "combined",
+            "result": "tie",
+            "user": "paper"
+        },
+        {
+            "computer": "scissors",
+            "gameId": 51,
+            "method": "combined",
+            "result": "user",
+            "user": "rock"
+        },
+        {
+            "computer": "paper",
+            "gameId": 52,
+            "method": "combined",
+            "result": "computer",
+            "user": "rock"
+        },
+        {
+            "computer": "paper",
+            "gameId": 53,
+            "method": "combined",
+            "result": "tie",
+            "user": "paper"
+        }
+    ],
+    "methodWeight": {
+        "stats": 0.15500000000000003,
+        "transitionFirstOrder": 0.455,
+        "transitionSecondOrder": 0.39
+    },
+    "name": "ravinder",
+    "stats": {
+        "paper": 20,
+        "rock": 20,
+        "scissors": 13
+    },
+    "totalGames": 53,
+    "transitionFO": {
+        "paper": {
+            "paper": 6,
+            "rock": 2,
+            "scissors": 1
+        },
+        "rock": {
+            "paper": 3,
+            "rock": 4,
+            "scissors": 1
+        },
+        "scissors": {
+            "paper": 2,
+            "rock": 1,
+            "scissors": 1
+        }
+    },
+    "transitionSO": {
+        "paper": {
+            "paper": {
+                "paper": 4,
+                "rock": 1,
+                "scissors": 1
+            },
+            "rock": {
+                "paper": 1,
+                "rock": 1
+            },
+            "scissors": {
+                "rock": 1
+            }
+        },
+        "rock": {
+            "paper": {
+                "rock": 1
+            },
+            "rock": {
+                "paper": 2,
+                "rock": 1,
+                "scissors": 1
+            },
+            "scissors": {
+                "scissors": 1
+            }
+        },
+        "scissors": {
+            "paper": {
+                "paper": 2
+            },
+            "rock": {
+                "rock": 1
+            },
+            "scissors": {
+                "paper": 1
+            }
+        }
+    },
+    "transitionsFO": {
+        "paper": {
+            "paper": 1,
+            "rock": 3,
+            "scissors": 5
+        },
+        "rock": {
+            "paper": 4,
+            "rock": 6,
+            "scissors": 1
+        },
+        "scissors": {
+            "paper": 4,
+            "rock": 2,
+            "scissors": 3
+        }
+    }
+}

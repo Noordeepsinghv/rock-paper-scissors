@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/noordeep-singh/Desktop/RockPaperScissors/build/cmake_install.cmake",
+		"/home/noordeep-singh/Desktop/RockPaperScissors/build/_deps/ftxui-build/cmake_install.cmake",
+		"/home/noordeep-singh/Desktop/RockPaperScissors/build/_deps/ftxui-build/examples/cmake_install.cmake",
+		"/home/noordeep-singh/Desktop/RockPaperScissors/build/_deps/ftxui-build/doc/cmake_install.cmake",
+		"/home/noordeep-singh/Desktop/RockPaperScissors/build/_deps/json-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

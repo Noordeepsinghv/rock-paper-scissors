@@ -1,0 +1,78 @@
+{
+    "history": [
+        {
+            "computer": "scissors",
+            "gameId": 1,
+            "method": "random",
+            "result": "computer",
+            "user": "paper"
+        },
+        {
+            "computer": "rock",
+            "gameId": 2,
+            "method": "random",
+            "result": "computer",
+            "user": "scissors"
+        },
+        {
+            "computer": "paper",
+            "gameId": 3,
+            "method": "random",
+            "result": "tie",
+            "user": "paper"
+        },
+        {
+            "computer": "rock",
+            "gameId": 4,
+            "method": "random",
+            "result": "tie",
+            "user": "rock"
+        },
+        {
+            "computer": "paper",
+            "gameId": 5,
+            "method": "random",
+            "result": "user",
+            "user": "scissors"
+        }
+    ],
+    "methodWeight": {
+        "stats": 0.2,
+        "transitionFirstOrder": 0.4,
+        "transitionSecondOrder": 0.4
+    },
+    "name": "b",
+    "stats": {
+        "paper": 2,
+        "rock": 1,
+        "scissors": 2
+    },
+    "totalGames": 5,
+    "transitionFO": {
+        "paper": {
+            "rock": 1,
+            "scissors": 1
+        },
+        "rock": {
+            "scissors": 1
+        },
+        "scissors": {
+            "paper": 1
+        }
+    },
+    "transitionSO": {
+        "paper": {
+            "rock": {
+                "scissors": 1
+            },
+            "scissors": {
+                "paper": 1
+            }
+        },
+        "scissors": {
+            "paper": {
+                "rock": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.obj: \
+ /home/noordeep-singh/Desktop/RockPaperScissors/build-win/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp \
+ /home/noordeep-singh/Desktop/RockPaperScissors/build-win/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/cstdint \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/pstl/pstl_config.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/stdint.h \
+ /usr/share/mingw-w64/include/stdint.h \
+ /usr/share/mingw-w64/include/crtdefs.h \
+ /usr/share/mingw-w64/include/corecrt.h \
+ /usr/share/mingw-w64/include/_mingw.h \
+ /usr/share/mingw-w64/include/_mingw_mac.h \
+ /usr/share/mingw-w64/include/_mingw_secapi.h \
+ /usr/share/mingw-w64/include/vadefs.h \
+ /usr/share/mingw-w64/include/sdks/_mingw_ddk.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/stddef.h \
+ /usr/share/mingw-w64/include/stddef.h \
+ /home/noordeep-singh/Desktop/RockPaperScissors/build-win/_deps/ftxui-src/include/ftxui/util/export.hpp

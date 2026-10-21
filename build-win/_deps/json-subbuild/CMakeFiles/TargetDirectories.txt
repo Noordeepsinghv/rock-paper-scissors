@@ -1,0 +1,3 @@
+/home/noordeep-singh/Desktop/RockPaperScissors/build-win/_deps/json-subbuild/CMakeFiles/json-populate.dir
+/home/noordeep-singh/Desktop/RockPaperScissors/build-win/_deps/json-subbuild/CMakeFiles/edit_cache.dir
+/home/noordeep-singh/Desktop/RockPaperScissors/build-win/_deps/json-subbuild/CMakeFiles/rebuild_cache.dir
